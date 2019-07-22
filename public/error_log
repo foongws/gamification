@@ -1,0 +1,20 @@
+[22-Jul-2019 07:13:45 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[22-Jul-2019 07:13:45 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[22-Jul-2019 07:14:05 UTC] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+[22-Jul-2019 07:14:05 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20131226
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
